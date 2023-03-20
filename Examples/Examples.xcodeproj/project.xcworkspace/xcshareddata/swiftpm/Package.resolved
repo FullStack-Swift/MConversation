@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "pathbuilder",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mkj-is/PathBuilder",
+      "state" : {
+        "revision" : "a5580affc0bce16dd637ed90c3bea51c7a6a2590",
+        "version" : "2.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
